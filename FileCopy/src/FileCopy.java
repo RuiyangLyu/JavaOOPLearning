@@ -2,8 +2,8 @@ import java.io.*;
 import java.util.SplittableRandom;
 
 public class FileCopy {
-    public static void main(String[] args) {
-
+    public static void main(String[] args) throws IOException {
+        Copy("/root/code/input.txt","/root/code/output.txt");
     }
     public static void Copy(String SourceFile , String CopiedFile) throws IOException {
 
