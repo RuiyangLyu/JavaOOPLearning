@@ -10,6 +10,11 @@ public class phoneCodeReader {
     public static void main(String[] args) throws IOException {
         File2HashMap();
         System.out.println(hashMap);
+
+        System.out.println(hashMap.get("12336"));
+
+        hashMap.remove("12316");
+        System.out.println(hashMap);
     }
 
     public static void File2HashMap() throws IOException {
