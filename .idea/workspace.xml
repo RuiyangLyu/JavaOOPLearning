@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fbf4311-73ff-4e77-9316-90f13892c9cf" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/OOP_Learn/src/test/task01/collectionLearning.java" afterDir="false" />
-    </list>
+    <list default="true" id="9fbf4311-73ff-4e77-9316-90f13892c9cf" name="变更" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +58,7 @@
       <workItem from="1669872484863" duration="5403000" />
       <workItem from="1669975183038" duration="460000" />
       <workItem from="1670235640387" duration="85000" />
+      <workItem from="1670476279788" duration="393000" />
     </task>
     <servers />
   </component>
@@ -69,7 +68,34 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="33b1b6f9-fd0a-486f-96db-be320c0efe49">
+          <value>
+            <State />
+          </value>
+        </entry>
         <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="d71bed87-66f4-4fcc-ab5c-fac3a37ef4ab">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="df7daa51-7b41-4995-9cc4-86a334acc027">
           <value>
             <State />
           </value>
