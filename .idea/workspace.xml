@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fbf4311-73ff-4e77-9316-90f13892c9cf" name="变更" comment="" />
+    <list default="true" id="9fbf4311-73ff-4e77-9316-90f13892c9cf" name="变更" comment="本地Git">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +41,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/MSI/Documents/GitHub/JavaOOPLearning&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/MSI/Documents/GitHub&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -59,6 +61,7 @@
       <workItem from="1669975183038" duration="460000" />
       <workItem from="1670235640387" duration="85000" />
       <workItem from="1670476279788" duration="393000" />
+      <workItem from="1670769287919" duration="3000" />
     </task>
     <servers />
   </component>
@@ -81,7 +84,24 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="HEAD" />
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="d38191d5-5f53-4e73-8722-f31fcbbcb59f">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main-function1edit" />
                       </list>
                     </value>
                   </entry>
